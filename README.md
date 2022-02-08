@@ -1,5 +1,5 @@
 # 🏁 start-here
-The start-here channel on Advocates DAO discord
+The start-here channel on Advocates DAO discord. Available here for peer review and changes via collective conversation.
 
 Hi 👋🏽
 You've arrived at the Advocates DAO, welcome!
