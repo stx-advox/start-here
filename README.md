@@ -1,4 +1,4 @@
-# start-here
+# 🏁 start-here
 The start-here channel on Advocates DAO discord
 
 Hi 👋🏽
