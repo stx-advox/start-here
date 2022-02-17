@@ -59,3 +59,4 @@ Once you are tagged in the 🤗│vouch channel please read the channel descript
 Before joining all Advocate DAO channels are viewable but most are read-only. Upon request a person from the Welcome Team can assign a temporary Advocates role to you (designated by a ✅), giving you access to post your first 💪│didathing  or 🙌│props  to become join the Stacks Advocates.
 
 Please read the channel description in ✋│join-requests for instructions.
+Click on the :mag_right:  to open the rest of the Advocates DAO channels.
