@@ -17,7 +17,7 @@ The goal of the Advocates DAO is to model decentralized systems of governance fo
 
 🐁
 
-Advocates DAO is a good use case to follow for organizations, such as foundations or other corporations, that are looking to decentralize. At the time of this writing, the rewards treasury for the Advocates DAO is 2000 STX/week distribution. 
+Advocates DAO is a good use case to follow for organizations, such as foundations or other corporations, that are looking to decentralize. Distributions happen weekly from the advocates stacking pool which acts as our [Commons](https://stacking.club/reward-address/38dSq9XfVhu51PH51Rpsirr4XgymikdGu1/27)
 🧮
 
 Configurations of SourceCred: Contributors use the 💪│didathing thing and 🙌│props models: using these channels to incentivize describing work for reward through a standard template as well as praising each other for unseen labor using props. The greater the number of emoji reactions received on a post equals the greater reward for the contributions of our members. In this way, we are showing collective valuation for each other's work. There is a general channel for open discussion as well as more specific channels to discuss Cred and Grain uses and strategies.
