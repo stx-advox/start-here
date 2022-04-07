@@ -26,8 +26,7 @@ You can find our repository here: https://github.com/stx-advox/advocates-sc
 ✊🏾
 
 Governance is a key convergence of the Advocates DAO within Stacks. Systems design for indigenous models of governance is being practiced and iterated on live in our community, in our server, and in our emergent tooling. You will see this through 🐢 (turtle), 🐺 (wolf), and 🧸 (bear) iconography, emoji-reacts, and dialogues around this three-tiered system of governance as they are being taught through the knowledge keeping of the Two Row Wampum Longhouse and iterated on by the Governance Lab and greater community of Advocates. This knowledge and practice is extrapolated from a 2k-year-old oral constitution and over 10k-year-old cosmology of the Kanienke’ha’ka (gah-nyen--geh-hah) of the Five Nations Confederacy.
-Here's the current calendar of events for the Governance Lab Initiative
-https://bit.ly/gov-lab-cal 
+
 🪜
 
 Tutorial: How to become an advocate
