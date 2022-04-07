@@ -31,7 +31,7 @@ Governance is a key convergence of the Advocates DAO within Stacks. Systems desi
 
 Tutorial: How to become an advocate
 
-Begin by familiarizing yourself with our [Code of Conduct Addendum to Stacks](https://docs.google.com/document/d/1N2x7J9OogupOAZrZ42xb43QaM2Nf_0SOHWofBgaRxAs/edit#). It is a live document and we welcome feedback. We will update the document once our feedback mechanism is in place 🧘‍♂️ 
+Begin by familiarizing yourself with our [Code of Conduct Addendum to Stacks](https://github.com/stx-advox/coc). It is a live document and we welcome feedback. We will update the document once our feedback mechanism is in place 🧘‍♂️ 
 
 Introduce yourself in 👋│introductions. Tell us what community you're from, your interests, and what you're up to in the ecosystem or outside of it. We want to know you!
 
